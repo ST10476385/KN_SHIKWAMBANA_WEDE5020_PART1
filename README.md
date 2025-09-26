@@ -1,4 +1,4 @@
-# Baked by Ruth — Website (HTML5 Project)
+# Baked by Ruth — Website 
 
 ## Student Information
 * **Name:** Khanyisa Ntsako Shikwambana
@@ -11,69 +11,10 @@
 ## Project Overview
 **Baked by Ruth** is a tribute website honoring my late grandmother Ruth, who inspired this project through her love for baking and community.  
 
-This version of the website is built using **HTML5**, applying semantic markup to ensure accessibility, SEO optimization, and a user-friendly experience.
-
-The website aims to:
-* Showcase baked goods and products
-* Promote youth baking courses and community events
-* Provide multiple enquiry/contact forms for customers, sponsors, and volunteers
-* Establish a strong foundation for future expansion (CSS/JS interactivity and mobile app integration)
-
----
-
-## Website Structure
-The website consists of multiple **interconnected HTML pages**:
-
-* `index.html` — Homepage (Ruth’s story + featured products)
-* `about.html` — About Us (history, mission, values)
-* `products.html` — Products listing with categories
-* `courses.html` — Baking courses & enrollment info
-* `events.html` — Community events & registrations
-* `enquiry.html` — Multi-purpose enquiry form
-* `enroll.html` — Course enrollment form
-* `event-register.html` — Event registration form
-* `checkout.html` — Checkout/cart page
-* `contact.html` — Contact page (form + Google Maps embed)
-* `get-involved.html` — Ways to support (volunteer/sponsor)
-  * `volunteer.html` — Volunteer sign-up form
-  * `sponsor.html` — Sponsor sign-up form
-
----
-## Sitemap:
-
-| Page | Sub-page | Sub-sub-page |
-|------|----------|--------------|
-| index.html |  |  |
-| about.html |  |  |
-| products.html |  |  |
-| courses.html | enroll.html |  |
-| events.html | event-register.html |  |
-|  | get-involved.html | volunteer.html / sponsor.html |
-| contact.html | enquiry.html |  |
-| checkout.html |  |  |
-| images/ |  |  |
-| README.md |  |  |
----
+-
 <img width="702" height="748" alt="image" src="https://github.com/user-attachments/assets/3eb3638e-8412-4554-90b7-4d10e7bf8707" />
 
-##  Features & Functionality
-* **Semantic HTML5 Elements** — `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`
-* **Navigation Bar** — Consistent across pages with active link highlighting
-* **Forms**:
-  * Enquiry form
-  * Checkout/cart
-  * Course enrollment
-  * Event registration
-  * Volunteer & sponsor sign-up
-* **Accessibility & SEO**:
-  * Alt text on images
-  * ARIA labels for forms
-  * Meta tags & Open Graph for SEO
-  * Proper heading hierarchy (`<h1>` → `<h6>`)
-* **Content Elements**:
-  * Headings, paragraphs, and lists
-  * Product images & galleries
-  * Buttons and links for clear CTAs
+
 
 ---
 
@@ -82,49 +23,256 @@ The website consists of multiple **interconnected HTML pages**:
 
 
 
-* ![Homepage Screenshot]<img width="1755" height="3825" alt="image" src="https://github.com/user-attachments/assets/6e894ca2-f2b6-4c4b-8adb-ae03bb9b4885" />
+* [Homepage Screenshot]<img width="1755" height="3825" alt="image" src="https://github.com/user-attachments/assets/6e894ca2-f2b6-4c4b-8adb-ae03bb9b4885" />
 
-* ![About Page Screenshot]<img width="1755" height="2784" alt="image" src="https://github.com/user-attachments/assets/ee61b446-ece6-434c-9e04-0358a2c07ee3" />
+* [About Page Screenshot]<img width="1755" height="2784" alt="image" src="https://github.com/user-attachments/assets/ee61b446-ece6-434c-9e04-0358a2c07ee3" />
 
-* ![Products Page Screenshot]<img width="1755" height="16049" alt="image" src="https://github.com/user-attachments/assets/48bccfa1-672d-4e9e-a351-ad13aa85ec0d" />
+* [Products Page Screenshot]<img width="1755" height="16049" alt="image" src="https://github.com/user-attachments/assets/48bccfa1-672d-4e9e-a351-ad13aa85ec0d" />
 
-* ![Courses Page Screenshot]<img width="1755" height="4085" alt="image" src="https://github.com/user-attachments/assets/7d66922e-688b-4fbf-915a-9c7077d2c3d8" />
+* [Courses Page Screenshot]<img width="1755" height="4085" alt="image" src="https://github.com/user-attachments/assets/7d66922e-688b-4fbf-915a-9c7077d2c3d8" />
 
-* ![Event Page Screenshot]<img width="1755" height="3742" alt="image" src="https://github.com/user-attachments/assets/87c320a0-fc72-4361-b103-fb26e7a06fd9" />
+* [Event Page Screenshot]<img width="1755" height="3742" alt="image" src="https://github.com/user-attachments/assets/87c320a0-fc72-4361-b103-fb26e7a06fd9" />
 
-* ![Enquiry Page Screenshot]<img width="1755" height="2017" alt="image" src="https://github.com/user-attachments/assets/085a55a6-bba3-48ef-b3e6-380a67bd97e7" />
+* [Enquiry Page Screenshot]<img width="1755" height="2017" alt="image" src="https://github.com/user-attachments/assets/085a55a6-bba3-48ef-b3e6-380a67bd97e7" />
 
-* ![Contact Page Screenshot]<img width="1755" height="3243" alt="image" src="https://github.com/user-attachments/assets/46c755e4-419e-414f-bf87-5bb92e50bd28" />
+* [Contact Page Screenshot]<img width="1755" height="3243" alt="image" src="https://github.com/user-attachments/assets/46c755e4-419e-414f-bf87-5bb92e50bd28" />
 
-* ![Sponsor Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/73994704-48c8-42fb-ac96-6333c9cd8552" />
+* [Sponsor Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/73994704-48c8-42fb-ac96-6333c9cd8552" />
 
-* ![Volunteer Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/26e91a1b-2659-4659-84fd-e37d5f88450b" />
+* [Volunteer Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/26e91a1b-2659-4659-84fd-e37d5f88450b" />
 
-* ![Checkout Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/29e00340-62b1-4dd9-880b-9b2bf3858739" />
+* [Checkout Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/29e00340-62b1-4dd9-880b-9b2bf3858739" />
 
-* ![Enroll Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/d0fbd60f-518a-4f85-8020-e6a7b74583a4" />
+* [Enroll Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/d0fbd60f-518a-4f85-8020-e6a7b74583a4" />
 
-* ![Get Involved Page Screenshot]<img width="1755" height="1022" alt="image" src="https://github.com/user-attachments/assets/b4a5786c-1b38-49f5-892d-35b71a6eaadf" />
+* [Get Involved Page Screenshot]<img width="1755" height="1022" alt="image" src="https://github.com/user-attachments/assets/b4a5786c-1b38-49f5-892d-35b71a6eaadf" />
 
-* ![Event Register Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/ed8a84c4-dfe6-496b-938d-4bd1c26f19f3" />
+* [Event Register Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/ed8a84c4-dfe6-496b-938d-4bd1c26f19f3" />
+
+---
+---
+
+
+
+## Project Reference
+Shikwambana, K. (2025) Baked by Ruth: Community Bakery Website Project. Private student repository, WEB DEVELOPMENT (INTRODUCTION) WEDE5020/p/w, The Independent Institute of Education (IIE).
+# Baked by Ruth Website
+
+## Student Information
+- **Name:** Khanyisa Ntsako Shikwambana
+- **Student Number:** ST10476385
+- **Module:** WEB DEVELOPMENT (INTRODUCTION) WEDE5020/p/w
+- **Institution:** The Independent Institute of Education (IIE)
+
 
 ---
 
-##  How to Open the Project
-1. Clone or download this repository  
-2. Open the project folder in **Visual Studio Code** (or any code editor)  
-3. Open `index.html` in your browser  
-4. Use the navigation bar to explore all website pages  
+## Project Overview
+Baked by Ruth is a tribute website for a beloved community baker, designed to showcase traditional South African baked goods, promote community events, and empower youth through baking courses. The site is fully responsive, SEO-optimized, and features a modern, accessible design. It is built using semantic HTML5 and modular CSS3, with a strong focus on best practices, maintainability, and accessibility. All JavaScript was removed for Part 2 to meet assignment requirements, and all styling is handled through a single, well-organized `styles.css` file. The project demonstrates:
+- Complete separation of structure (HTML) and presentation (CSS)
+- Section-by-section CSS refactor for maintainability
+- Accessibility and color contrast improvements
+- Responsive layouts for all devices
+- Detailed documentation and code comments for grading and future updates
 
 ---
 
-## ✅ Testing & Validation
-* **Cross-browser testing:** Chrome, Firefox, and Edge  
-* **Responsive layout:** Checked on desktop, tablet, and mobile  
-* **Accessibility:** Verified headings, alt text, ARIA labels  
-* **Forms:** All forms tested for functionality and validation  
+## Website Goals and Objectives
+- Share Ruth’s story and legacy with the community through engaging content and imagery
+- Promote and sell traditional baked goods with clear product listings and pricing
+- Advertise and manage community events and baking courses, including event registration and course details
+- Enable users to make product, event, volunteer, and sponsorship enquiries via accessible forms
+- Support youth development and entrepreneurship by highlighting community impact and opportunities
+- Provide a seamless, accessible, and engaging user experience on all devices, with a focus on color contrast, keyboard navigation, and alt text
 
 ---
+
+## Key Features and Functionality
+- **Multi-page structure:** Home, About, Products, Courses, Events, Enquiry, Contact, Cart, Checkout, Sponsor, Volunteer, Get Involved. Each page is fully documented and uses only external CSS for styling.
+- **Responsive design:** Adapts to all screen sizes (mobile, tablet, desktop) using CSS Grid and Flexbox. Layouts and images scale smoothly for usability.
+- **Navigation:** Consistent navbar with active page highlighting and accessible links. Cart icon links directly to the cart page.
+- **Hero section:** Orange header with page-specific content and images for strong branding and visual appeal.
+- **Signature bakes:** Product cards with images, descriptions, and prices, styled with reusable CSS classes.
+- **Community impact:** Dedicated sections highlighting youth programs, fundraising, and community events.
+- **Course listings:** Detailed course info, schedules, and pricing, with clear call-to-action buttons.
+- **Events:** Upcoming events, event types, and past highlights, all styled with modular CSS and grid layouts.
+- **Get Involved:** Volunteer, sponsor, and attend options on the Events page, with accessible links and forms.
+- **Enquiry form:** Multi-purpose form for products, events, volunteering, and sponsorship, with required field validation and accessible labels.
+- **Contact page:** Contact info, form, and Google Maps embed for easy communication and location finding.
+- **Accessibility:** All images have descriptive alt text, navigation is keyboard accessible, color contrast meets WCAG standards, and all forms are labeled.
+- **SEO:** Meta tags, Open Graph, descriptive URLs, and semantic HTML for search engine optimization and social sharing.
+- **No JavaScript:** All interactive and visual features are implemented using only HTML and CSS for Part 2, as per assignment requirements.
+
+---
+
+## Sitemap
+- `index.html` (Home)
+- `about.html` (About Us)
+- `products.html` (Products)
+- `courses.html` (Courses)
+- `events.html` (Events)
+- `enquiry.html` (Enquiry)
+- `contact.html` (Contact)
+- `cart.html` (Cart)
+- `checkout.html` (Checkout)
+- `sponsor.html` (Sponsor)
+- `volunteer.html` (Volunteer)
+- `get-involved.html` (Get Involved)
+- `/css/styles.css` (Styles)
+- `/images/` (All images and assets)
+
+---
+
+## File/Folder Structure
+```
+Baked by Ruth/
+├── index.html
+├── about.html
+├── products.html
+├── courses.html
+├── events.html
+├── enquiry.html
+├── contact.html
+├── cart.html
+├── checkout.html
+├── sponsor.html
+├── volunteer.html
+├── get-involved.html
+├── css/
+│   └── styles.css
+├── images/
+│   └── [all images]
+├── website-checklist.md
+└── README.md
+```
+
+---
+
+## Design and User Experience
+- **Color Scheme:** Warm oranges, browns, and neutrals for a welcoming, bakery-inspired feel
+- **Typography:** Clean, readable sans-serif fonts; clear hierarchy for headings and body text
+- **Layout:** Grid and flexbox for responsive, modern layouts; generous spacing and rounded corners
+- **Branding:** Consistent use of logo, colors, and imagery across all pages
+- **Accessibility:** High contrast, alt text, keyboard navigation, and ARIA labels where needed
+
+---
+
+## Technical Stack
+- **HTML5:** Semantic, accessible structure for all pages, with clear sectioning and ARIA labels where needed.
+- **CSS3:** Modular, maintainable stylesheet (`styles.css`) with custom properties, responsive design, and modern layouts. All inline styles removed and replaced with classes.
+- **SEO:** Meta tags, Open Graph, descriptive alt text, and semantic HTML for discoverability and sharing.
+- **Accessibility:** Focused on keyboard navigation, color contrast, and alt text for all images and icons.
+- **External Services:** Google Maps embed on Contact page for location and directions.
+
+---
+
+## Timeline and Milestones
+
+### Part 1: Project Planning & HTML Structure
+- Project proposal and planning: 14 August 2025  
+	Developed the project concept, defined objectives, and outlined deliverables for a tribute bakery website. Created a detailed plan for content, structure, and user experience.
+- Content research and sourcing: 15–16 August 2025  
+	Gathered original and public domain content, images, and references. Outlined all required pages and features based on assignment and user needs.
+- HTML structure and navigation: 17–18 August 2025  
+	Built semantic HTML5 structure for all pages, including navigation bar, hero sections, product/event/course cards, forms, and footer. Ensured all pages were accessible via a consistent navigation menu.
+- Initial submission and feedback: 19–20 August 2025  
+	Submitted Part 1 for review. Incorporated feedback on structure, navigation, and content completeness.
+
+### Part 2: CSS Styling & Responsive Design
+- CSS styling and responsive design: 21 August – 26 September 2025  
+	Designed and implemented a modern, responsive layout using CSS Grid and Flexbox. Created a warm, bakery-inspired color palette and consistent branding. All pages styled for mobile, tablet, and desktop.
+- Accessibility improvements: 21–26 September 2025  
+	Improved color contrast, added focus states, ensured keyboard navigation, and provided descriptive alt text for all images. Verified all forms and navigation are accessible.
+- Major codebase cleanup and best practices: 20–26 September 2025  
+	Removed all JavaScript, moved all inline CSS to `styles.css`, created semantic CSS classes for every section, and cleaned up all HTML for maintainability and grading. Added detailed comments and fixed all lint errors.
+- Part 2 submission: 26 September 2025  
+	Final review and testing. Submitted fully refactored, accessible, and well-documented project for grading.
+
+### Part 3: JavaScript & Final Enhancements
+- JavaScript interactivity: 27 September – 19 November 2025
+- SEO and advanced accessibility: 1–15 November 2025
+- Testing and debugging: 16–18 November 2025
+- Final review and documentation: 19 November 2025
+- Part 3 (final) submission: 19 November 2025
+
+---
+
+## Changelog
+
+- **14 Aug 2025**: Project initialized, folder structure created.
+- **15–16 Aug 2025**: Added all HTML pages and navigation structure for a multi-page site.
+- **17–18 Aug 2025**: Integrated original and sourced content for all pages, including products, courses, and events.
+- **19–20 Aug 2025**: Applied initial CSS styling and responsive design using flexbox and grid layouts.
+- **21 Aug 2025**: Added JavaScript for interactivity (later removed for Part 2 requirements).
+- **22 Aug 2025**: Implemented SEO and accessibility features, including meta tags, alt text, and keyboard navigation.
+- **23 Aug 2025**: Added Google Maps embed to the Contact page for location visibility.
+- **24 Aug 2025**: Final testing and documentation for Part 1 submission.
+- **13 Sep 2025**: Added CSS reset for cross-browser consistency; improved section comments in styles.css; verified responsive design and updated documentation for Part 2.
+- **20–26 Sep 2025**: Major codebase cleanup and best practices implementation:
+	- **Removed all JavaScript:** All JavaScript code and references were removed from every HTML file to comply with assignment requirements for a pure HTML/CSS project.
+	- **Moved all inline CSS to styles.css:** Every inline style attribute in all HTML files was systematically moved to the external `styles.css` file. New semantic CSS classes were created for all sections, cards, buttons, grids, forms, and utility styles. This ensures maintainability and separation of concerns.
+	- **HTML cleanup:** All HTML files were updated to remove stray or empty tags (e.g., stray `</script>`), fix indentation, and ensure valid, semantic markup. All style attributes were replaced with class names.
+	- **Section-by-section CSS refactor:**
+		- Navigation, hero, and footer styles consolidated in CSS.
+		- Product, course, event, and contact cards now use reusable CSS classes.
+		- Newsletter signup, contact form, and all forms styled via CSS only.
+		- Event sections (Upcoming Events, Categories, Past Events, Get Involved) refactored to use grid/flex layouts and new classes.
+	- **Accessibility improvements:** Ensured all interactive elements have clear focus states, color contrast meets WCAG standards, and all images have descriptive alt text. Navigation is fully keyboard accessible.
+	- **Cart and checkout enhancements:**
+		- Created a dedicated `cart.html` page with a styled cart table and navigation.
+		- Improved `checkout.html` with a back button and consistent styling.
+		- Cart icon in navigation now links to the cart page.
+	- **Explanatory comments:** Added detailed HTML comments to all major sections in each HTML file to clarify structure and purpose for future maintainers and graders.
+	- **Documentation updates:** Updated this README and website-checklist.md to reflect all changes, best practices, and assignment requirements.
+	- **Linting and validation:** Fixed all CSS and HTML lint errors, including removing empty rulesets and ensuring all files pass validation.
+	- **Final review:** Performed a full walkthrough of every page to ensure all styles are external, all navigation works, and the site is visually consistent and accessible on all devices.
+
+---
+
+
+---
+
+## How to Run the Project
+To view and explore the Baked by Ruth website locally:
+
+1. **Download or Clone the Repository:**
+	 - Download the ZIP from GitHub and extract it, or use `git clone https://github.com/[https://github.com/ST10476385/KN_SHIKWAMBANA_WEDE5020_PART1.git]/baked-by-ruth` to clone the repository.
+2. **Open the Project Folder:**
+	 - Use Visual Studio Code or any preferred code editor to open the project directory.
+3. **Launch the Website:**
+	 - Open `index.html` in your web browser (Chrome, Firefox, Edge, or Safari) by double-clicking the file or right-clicking and selecting "Open with...".
+4. **Browse the Site:**
+	 - Use the navigation menu to explore all pages: About, Products, Courses, Events, Enquiry, Contact, Cart, Checkout, Sponsor, Volunteer, and Get Involved.
+	 - All features are available without any server setup or dependencies—simply open the HTML files.
+
+---
+
+## Testing and Validation
+The project was thoroughly tested to ensure a robust, accessible, and user-friendly experience:
+
+- **Cross-browser compatibility:**
+	- Tested on the latest versions of Chrome, Firefox, Edge, and Safari.
+- **Responsive design:**
+	- Verified layouts on mobile, tablet, and desktop using device emulators and real devices.
+- **Form validation:**
+	- All forms require mandatory fields and use correct input types. Manual testing confirmed error handling and accessibility.
+- **Navigation:**
+	- All navigation links, buttons, and the cart icon were tested for correct routing and usability.
+- **Accessibility:**
+	- Checked for descriptive alt text on all images, keyboard navigation, focus states, and color contrast (WCAG compliance).
+- **HTML/CSS validation:**
+	- All files pass W3C HTML and CSS validation. No inline styles or JavaScript remain.
+- **Manual walkthrough:**
+	- Each page was reviewed for content accuracy, visual consistency, and usability.
+
+---
+
+## License
+This project is for educational purposes only and is not intended for commercial use. All content, images, and assets are used in accordance with their respective licenses or are original/student-created. Please refer to the References section for image and resource attributions. If you wish to reuse or adapt any part of this project, please credit the original author and sources as appropriate.
+
+---
+
+
 
 ##  References
 
