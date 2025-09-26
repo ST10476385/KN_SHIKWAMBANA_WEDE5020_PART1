@@ -71,7 +71,6 @@ Baked by Ruth is a tribute website for a beloved community baker, designed to sh
 
 ---
 
-
 ## File/Folder Structure
 ```
 Baked by Ruth/
