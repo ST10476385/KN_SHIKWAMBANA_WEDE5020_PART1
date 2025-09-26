@@ -24,6 +24,7 @@ Baked by Ruth is a tribute website for a beloved community baker, designed to sh
 
 ---
 
+
 ## Website Goals and Objectives
 - Share Ruth’s story and legacy with the community through engaging content and imagery
 - Promote and sell traditional baked goods with clear product listings and pricing
