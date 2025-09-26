@@ -5,7 +5,7 @@
 * **Student Number:** ST10476385
 * **Module:** Web Development (Introduction) — WEDE5020/p/w
 * **Institution:** The Independent Institute of Education (IIE)
-
+https://github.com/ST10476385/KN_SHIKWAMBANA_WEDE5020_PART1-2.git
 ## Project Reference
 Shikwambana, K. (2025) Baked by Ruth: Community Bakery Website Project. Private student repository, WEB DEVELOPMENT (INTRODUCTION) WEDE5020/p/w, The Independent Institute of Education (IIE).
 
@@ -171,7 +171,7 @@ Baked by Ruth/
 	- **Documentation updates:** Updated this README and website-checklist.md to reflect all changes, best practices, and assignment requirements.
 	- **Linting and validation:** Fixed all CSS and HTML lint errors, including removing empty rulesets and ensuring all files pass validation.
 	- **Final review:** Performed a full walkthrough of every page to ensure all styles are external, all navigation works, and the site is visually consistent and accessible on all devices.
-
+https://github.com/ST10476385/KN_SHIKWAMBANA_WEDE5020_PART1-2.git
 ---
 
 
@@ -374,3 +374,4 @@ All images used in this project are sourced from this Pinterest board:
 **Student Number:** ST10476385  
 **Module:** Web Development (Introduction) — WEDE5020  
 **Institution:** The Independent Institute of Education (IIE)  
+https://github.com/ST10476385/KN_SHIKWAMBANA_WEDE5020_PART1-2.git
