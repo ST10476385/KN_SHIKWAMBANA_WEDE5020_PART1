@@ -6,66 +6,13 @@
 * **Module:** Web Development (Introduction) — WEDE5020/p/w
 * **Institution:** The Independent Institute of Education (IIE)
 
+## Project Reference
+Shikwambana, K. (2025) Baked by Ruth: Community Bakery Website Project. Private student repository, WEB DEVELOPMENT (INTRODUCTION) WEDE5020/p/w, The Independent Institute of Education (IIE).
+
 ---
 
 ## Project Overview
 **Baked by Ruth** is a tribute website honoring my late grandmother Ruth, who inspired this project through her love for baking and community.  
-
-
-
-
----
-
-##  Screenshots
-*(Screenshots will be added here — one for each page to illustrate the design and structure.)*
-
-
-
-* [Homepage Screenshot]<img width="1755" height="3825" alt="image" src="https://github.com/user-attachments/assets/6e894ca2-f2b6-4c4b-8adb-ae03bb9b4885" />
-
-* [About Page Screenshot]<img width="1755" height="2784" alt="image" src="https://github.com/user-attachments/assets/ee61b446-ece6-434c-9e04-0358a2c07ee3" />
-
-* [Products Page Screenshot]<img width="1755" height="16049" alt="image" src="https://github.com/user-attachments/assets/48bccfa1-672d-4e9e-a351-ad13aa85ec0d" />
-
-* [Courses Page Screenshot]<img width="1755" height="4085" alt="image" src="https://github.com/user-attachments/assets/7d66922e-688b-4fbf-915a-9c7077d2c3d8" />
-
-* [Event Page Screenshot]<img width="1755" height="3742" alt="image" src="https://github.com/user-attachments/assets/87c320a0-fc72-4361-b103-fb26e7a06fd9" />
-
-* [Enquiry Page Screenshot]<img width="1755" height="2017" alt="image" src="https://github.com/user-attachments/assets/085a55a6-bba3-48ef-b3e6-380a67bd97e7" />
-
-* [Contact Page Screenshot]<img width="1755" height="3243" alt="image" src="https://github.com/user-attachments/assets/46c755e4-419e-414f-bf87-5bb92e50bd28" />
-
-* [Sponsor Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/73994704-48c8-42fb-ac96-6333c9cd8552" />
-
-* [Volunteer Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/26e91a1b-2659-4659-84fd-e37d5f88450b" />
-
-* [Checkout Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/29e00340-62b1-4dd9-880b-9b2bf3858739" />
-
-* [Enroll Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/d0fbd60f-518a-4f85-8020-e6a7b74583a4" />
-
-* [Get Involved Page Screenshot]<img width="1755" height="1022" alt="image" src="https://github.com/user-attachments/assets/b4a5786c-1b38-49f5-892d-35b71a6eaadf" />
-
-* [Event Register Page Screenshot]<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/ed8a84c4-dfe6-496b-938d-4bd1c26f19f3" />
-
----
----
-
-
-
-## Project Reference
-Shikwambana, K. (2025) Baked by Ruth: Community Bakery Website Project. Private student repository, WEB DEVELOPMENT (INTRODUCTION) WEDE5020/p/w, The Independent Institute of Education (IIE).
-# Baked by Ruth Website
-
-## Student Information
-- **Name:** Khanyisa Ntsako Shikwambana
-- **Student Number:** ST10476385
-- **Module:** WEB DEVELOPMENT (INTRODUCTION) WEDE5020/p/w
-- **Institution:** The Independent Institute of Education (IIE)
-
-
----
-
-## Project Overview
 Baked by Ruth is a tribute website for a beloved community baker, designed to showcase traditional South African baked goods, promote community events, and empower youth through baking courses. The site is fully responsive, SEO-optimized, and features a modern, accessible design. It is built using semantic HTML5 and modular CSS3, with a strong focus on best practices, maintainability, and accessibility. All JavaScript was removed for Part 2 to meet assignment requirements, and all styling is handled through a single, well-organized `styles.css` file. The project demonstrates:
 - Complete separation of structure (HTML) and presentation (CSS)
 - Section-by-section CSS refactor for maintainability
@@ -244,6 +191,122 @@ To view and explore the Baked by Ruth website locally:
 	 - All features are available without any server setup or dependencies—simply open the HTML files.
 
 ---
+
+
+
+
+---
+
+##  Screenshots
+*(Screenshots will be added here — one for each page to illustrate the design and structure.)*
+
+
+
+### Homepage Screenshot
+---
+ <img width="1755" height="3825" alt="image" src="https://github.com/user-attachments/assets/6e894ca2-f2b6-4c4b-8adb-ae03bb9b4885" />
+---
+<img width="1755" height="2210" alt="image" src="https://github.com/user-attachments/assets/2d41e506-28ac-4bb6-9832-bdaf776734fd" />
+---
+
+
+### About Page Screenshot
+---
+<img width="1755" height="2784" alt="image" src="https://github.com/user-attachments/assets/ee61b446-ece6-434c-9e04-0358a2c07ee3" />
+---
+<img width="1755" height="2253" alt="image" src="https://github.com/user-attachments/assets/9bee510d-3abc-49dc-a518-04e972d7a6e3" />
+---
+
+### Products Page Screenshot
+---
+ <img width="1755" height="16049" alt="image" src="https://github.com/user-attachments/assets/48bccfa1-672d-4e9e-a351-ad13aa85ec0d" />
+---
+<img width="1755" height="7523" alt="image" src="https://github.com/user-attachments/assets/c97683b4-2326-4bc9-8327-31b6c32a7ae6" />
+---
+
+
+### Courses Page Screenshot
+---
+<img width="1755" height="4085" alt="image" src="https://github.com/user-attachments/assets/7d66922e-688b-4fbf-915a-9c7077d2c3d8" />
+---
+<img width="1755" height="4345" alt="image" src="https://github.com/user-attachments/assets/382b748e-f9fd-48f0-a4ec-a1643e1ecbe2" />
+---
+
+### Event Page Screenshot
+---
+<img width="1755" height="3742" alt="image" src="https://github.com/user-attachments/assets/87c320a0-fc72-4361-b103-fb26e7a06fd9" />
+---
+<img width="1755" height="3756" alt="image" src="https://github.com/user-attachments/assets/957622c5-da51-4bd0-a913-81475c9a5545" />
+---
+
+### Enquiry Page Screenshot
+---
+ <img width="1755" height="2017" alt="image" src="https://github.com/user-attachments/assets/085a55a6-bba3-48ef-b3e6-380a67bd97e7" />
+---
+<img width="1755" height="2909" alt="image" src="https://github.com/user-attachments/assets/dd19e25d-a3a9-4cd7-aee2-1e9f7daa290f" />
+---
+
+
+### Contact Page Screenshot
+---
+  <img width="1755" height="3243" alt="image" src="https://github.com/user-attachments/assets/46c755e4-419e-414f-bf87-5bb92e50bd28" />
+---
+<img width="1755" height="2614" alt="image" src="https://github.com/user-attachments/assets/07a2a415-59bc-4e16-bbcb-a2855e8e6d84" />
+---
+
+### Sponsor Page Screenshot
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/73994704-48c8-42fb-ac96-6333c9cd8552" />
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/c55f4104-2c4c-4bdd-8d04-d2b875145287" />
+---
+
+### Volunteer Page Screenshot
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/26e91a1b-2659-4659-84fd-e37d5f88450b" />
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/13ce77e0-6225-4703-b785-e1189098c893" />
+---
+
+### Checkout Page Screenshot
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/29e00340-62b1-4dd9-880b-9b2bf3858739" />
+---
+<img width="1755" height="888" alt="image" src="https://github.com/user-attachments/assets/2b39fe57-a30c-4328-9e92-57edf0773159" />
+---
+
+### Enroll Page Screenshot
+  ---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/d0fbd60f-518a-4f85-8020-e6a7b74583a4" />
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/9c4bd7cd-cdb2-4c8a-9995-28a76c3741ce" />
+---
+
+  ### Get Involved Page Screenshot
+---
+<img width="1755" height="1022" alt="image" src="https://github.com/user-attachments/assets/b4a5786c-1b38-49f5-892d-35b71a6eaadf" />
+---
+<img width="1755" height="1001" alt="image" src="https://github.com/user-attachments/assets/b6e215be-4804-4e1f-999a-0ffca2f2cc4c" />
+---
+
+### Event Register Page Screenshot
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/ed8a84c4-dfe6-496b-938d-4bd1c26f19f3" />
+---
+<img width="1755" height="1058" alt="image" src="https://github.com/user-attachments/assets/e70cd40d-0c3d-45dd-a415-c7f2d9b7c8ad" />
+---
+### Cart Page Screenshot
+---
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/35c4b889-42d3-43eb-a933-db112330fdd3" />
+---
+
+---
+
+
+
+
+---
+
 
 ## Testing and Validation
 The project was thoroughly tested to ensure a robust, accessible, and user-friendly experience:
